@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  ComplementaryColor.swift
 //  ColorKit
@@ -20,3 +21,4 @@ extension UIColor {
     }
     
 }
+#endif

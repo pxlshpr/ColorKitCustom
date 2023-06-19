@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  PaletteTests.swift
 //  ColorKitTests
@@ -123,3 +124,4 @@ class PaletteTests: XCTestCase {
     }
     
 }
+#endif

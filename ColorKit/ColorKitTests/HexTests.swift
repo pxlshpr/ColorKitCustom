@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  HexTests.swift
 //  ColorKitTests
@@ -82,3 +83,4 @@ class HexTests: XCTestCase {
     }
     
 }
+#endif

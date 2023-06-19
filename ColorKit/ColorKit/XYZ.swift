@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  XYZ.swift
 //  ColorKit
@@ -59,3 +60,4 @@ extension UIColor {
     }
     
 }
+#endif

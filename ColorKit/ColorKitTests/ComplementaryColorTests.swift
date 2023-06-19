@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  ComplementaryColorTests.swift
 //  ColorKitTests
@@ -42,3 +43,4 @@ class ComplementaryColorTests: XCTestCase {
     }
         
 }
+#endif

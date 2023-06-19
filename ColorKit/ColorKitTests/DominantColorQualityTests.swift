@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  DominantColorQualityTests.swift
 //  ColorKitTests
@@ -30,3 +31,4 @@ class DominantColorQualityTests: XCTestCase {
     }
     
 }
+#endif

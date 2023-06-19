@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  RelativeLuminanceTests.swift
 //  ColorKitTests
@@ -32,3 +33,4 @@ class RelativeLuminanceTests: XCTestCase {
     }
     
 }
+#endif

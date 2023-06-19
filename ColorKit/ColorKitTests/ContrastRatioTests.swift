@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  ContrastRatioTests.swift
 //  ColorKitTests
@@ -47,3 +48,4 @@ class ContrastRatioTests: XCTestCase {
     }
 
 }
+#endif

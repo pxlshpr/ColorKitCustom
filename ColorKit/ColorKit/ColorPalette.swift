@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  ColorPalette.swift
 //  ColorKit
@@ -153,3 +154,4 @@ public struct ColorPalette {
     }
     
 }
+#endif

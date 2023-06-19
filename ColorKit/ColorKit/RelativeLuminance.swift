@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  RelativeLuminance.swift
 //  ColorKit
@@ -32,3 +33,4 @@ extension UIColor {
     }
     
 }
+#endif

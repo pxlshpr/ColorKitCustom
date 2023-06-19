@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  XYZTests.swift
 //  ColorKitTests
@@ -36,3 +37,4 @@ class XYZTests: XCTestCase {
     }
     
 }
+#endif

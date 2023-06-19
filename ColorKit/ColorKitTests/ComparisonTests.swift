@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  ComparisonTests.swift
 //  ColorKitTests
@@ -184,3 +185,4 @@ class ComparisonTests: XCTestCase {
 
 
 }
+#endif

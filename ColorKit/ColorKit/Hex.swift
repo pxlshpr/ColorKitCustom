@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  Hex.swift
 //  ColorKit
@@ -41,3 +42,4 @@ extension UIColor {
     }
     
 }
+#endif

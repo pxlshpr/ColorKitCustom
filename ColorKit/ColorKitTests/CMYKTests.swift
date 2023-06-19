@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  CMYKTests.swift
 //  ColorKitTests
@@ -48,3 +49,4 @@ class CMYKTests: XCTestCase {
     }
     
 }
+#endif

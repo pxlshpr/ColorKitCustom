@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  RGBTests.swift
 //  ColorKitTests
@@ -68,3 +69,4 @@ class RGBTests: XCTestCase {
     }
 
 }
+#endif

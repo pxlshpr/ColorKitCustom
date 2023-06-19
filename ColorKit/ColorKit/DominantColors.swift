@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  DominantColors.swift
 //  ColorKit
@@ -295,3 +296,4 @@ extension UIImage {
     }
     
 }
+#endif

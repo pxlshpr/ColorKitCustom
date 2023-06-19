@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  Lab.swift
 //  ColorKit
@@ -70,3 +71,4 @@ extension UIColor {
     }
     
 }
+#endif

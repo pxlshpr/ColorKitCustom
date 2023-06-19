@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  LabTests.swift
 //  ColorKitTests
@@ -35,3 +36,4 @@ class LabTests: XCTestCase {
     }
     
 }
+#endif

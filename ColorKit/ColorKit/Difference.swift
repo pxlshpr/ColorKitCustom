@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  Comparison.swift
 //  ColorKit
@@ -138,3 +139,4 @@ extension UIColor {
     }
     
 }
+#endif

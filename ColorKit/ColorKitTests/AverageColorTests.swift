@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  AverageColorTests.swift
 //  ColorKitTests
@@ -46,3 +47,4 @@ class AverageColorTests: XCTestCase {
     }
     
 }
+#endif

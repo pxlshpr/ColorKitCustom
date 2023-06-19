@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  Name.swift
 //  ColorKit
@@ -73,3 +74,4 @@ struct NamedColorList {
     ]
     
 }
+#endif

@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  AverageColor.swift
 //  ColorKit
@@ -67,3 +68,4 @@ extension UIImage {
     }
     
 }
+#endif

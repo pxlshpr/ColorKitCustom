@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  Random.swift
 //  ColorKit
@@ -23,3 +24,4 @@ extension UIColor {
     }
     
 }
+#endif

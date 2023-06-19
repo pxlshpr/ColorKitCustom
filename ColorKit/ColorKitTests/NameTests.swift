@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  NameTests.swift
 //  ColorKitTests
@@ -62,3 +63,4 @@ class NameTests: XCTestCase {
     }
     
 }
+#endif

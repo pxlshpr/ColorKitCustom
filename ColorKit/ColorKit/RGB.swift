@@ -1,3 +1,4 @@
+#if os(iOS)
 //
 //  RGB.swift
 //  ColorKit
@@ -57,3 +58,4 @@ extension UIColor {
     }
         
 }
+#endif
