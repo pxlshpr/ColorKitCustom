@@ -4,14 +4,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "ColorKit",
+    name: "ColorKitCustom",
     platforms: [
         .iOS(.v13),
         .macOS("14.0")
     ],
     products: [
         .library(
-            name: "ColorKit",
+            name: "ColorKitCustom",
             targets: ["ColorKit"]),
     ],
     targets: [
